@@ -62,13 +62,6 @@ std::vector<std::vector<double>> pred =  {
     0,1,0},
 };
 
-/*static const std::vector<std::vector<double>> pred = {
-    {1,0,1},
-    {0,1,0},
-    {1,1,1},
-    {1,1,0}
-};*/
-
 int main(void){
 
     std::string filepath = "training_data3.txt";
